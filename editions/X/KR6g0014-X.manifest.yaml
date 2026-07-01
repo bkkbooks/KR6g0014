@@ -1,0 +1,146 @@
+canonical_identifier: bkk:krp/KR6g0014/X/v1
+canonical_location: https://kanripo.org/bkk/KR6g0014/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 涅槃經治定疏科
+  identifiers:
+    krp: KR6g0014
+    cbeta: X36n0657
+    cbeta_old_id: X36n0657
+    authorityid: CA0002373
+    json_key: X0657
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X36/X36n0657.xml
+    old_id: X36n0657
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6g0014_000-X.yaml, hash: 'sha256:8f6caa19b3fda96040a91c38f6ce32022fd6c222b7604f09be7fcd040dfad933'}
+  - {seq: 1, filename: KR6g0014_001-X.yaml, hash: 'sha256:a3b74b9cf9d5ea5d6e561bc83d82e1ed3c293e5caa6b0bf32885507555b48f8b'}
+  - {seq: 2, filename: KR6g0014_002-X.yaml, hash: 'sha256:f86faf738d3f784961d9000a7051bff0717a869210fd5c33a056ba9ed50a8220'}
+  - {seq: 3, filename: KR6g0014_003-X.yaml, hash: 'sha256:1b0a95302a9bfaa1a4aad47076909bf678d6c99550b96aa42f2e9c2ffd8f4858'}
+  - {seq: 4, filename: KR6g0014_004-X.yaml, hash: 'sha256:b206c1b8b82e1e61bc1571463fdab89d6a07ae0e0023db1ce77032b3f8c848c8'}
+  - {seq: 5, filename: KR6g0014_005-X.yaml, hash: 'sha256:bae6c36370250afdbf0de6702111aee02c9827baad14687bc03ce574d46c018f'}
+  - {seq: 6, filename: KR6g0014_006-X.yaml, hash: 'sha256:ae9f0c7fce171c54ec2d884122d80269141e0e5ba18953a4c06b890f9c892c1a'}
+  - {seq: 7, filename: KR6g0014_007-X.yaml, hash: 'sha256:93d231dd7d1723d7ac0414eff8abfac59d1ad4028731ba904ad9408929ac5beb'}
+  - {seq: 8, filename: KR6g0014_008-X.yaml, hash: 'sha256:7e8bd2d74a31b67021daf90a85e66b4b2c48cd3a24debc322346ad8ff1fc972b'}
+  - {seq: 9, filename: KR6g0014_009-X.yaml, hash: 'sha256:b5f1148b75bfc72f5eca8c430cece7a022320af2b884378755a53927a6a72879'}
+  - {seq: 10, filename: KR6g0014_010-X.yaml, hash: 'sha256:7393b7113edfcceff5397af2a9df84978aff569ce43acd9cc61248d4c0d01c02'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6g0014_000-X.markers.yaml, hash: 'sha256:13c95a1074d8665d4eea880b6ffdb5ad56435de2104698345fb078f8821eb098'}
+  - {seq: 1, role: markers, filename: assets/KR6g0014_001-X.markers.yaml, hash: 'sha256:94e488c004087d43e044aefa1e451b481b692e674cf2f70748719d842e6db92b'}
+  - {seq: 2, role: markers, filename: assets/KR6g0014_002-X.markers.yaml, hash: 'sha256:b917ad4f569106b73000f06cc065a94b38235690c20b31eaf62c49dae6839b01'}
+  - {seq: 3, role: markers, filename: assets/KR6g0014_003-X.markers.yaml, hash: 'sha256:d9074735e4b50a55bc0bf3f0ef6a601f46afb037983402b1791abfb54aa4dd39'}
+  - {seq: 4, role: markers, filename: assets/KR6g0014_004-X.markers.yaml, hash: 'sha256:fbe3cb08d963bc5a37a855d5490656d99c75f53a66b3773fad24a6fe7e88b8b9'}
+  - {seq: 5, role: markers, filename: assets/KR6g0014_005-X.markers.yaml, hash: 'sha256:8be9a17e06e4aec1b15228d65774a13a3a80138618f04398d2993b6081afc965'}
+  - {seq: 6, role: markers, filename: assets/KR6g0014_006-X.markers.yaml, hash: 'sha256:70cac44f1dd701e6980313da11142f96bb115e54d6e9bf1df548ad9609e55468'}
+  - {seq: 7, role: markers, filename: assets/KR6g0014_007-X.markers.yaml, hash: 'sha256:60ed237e410dbe2c386e50250f6ff1633542a3b8fce831a298365a4078d1d784'}
+  - {seq: 8, role: markers, filename: assets/KR6g0014_008-X.markers.yaml, hash: 'sha256:bc5c1319b59143f9f802702ea01ffe768c2ad7530150a8da75e11138212a96bc'}
+  - {seq: 9, role: markers, filename: assets/KR6g0014_009-X.markers.yaml, hash: 'sha256:cff4bb2f70e54857148253dc697c92e98f4ba7ac89650542e181d795608b6919'}
+  - {seq: 10, role: markers, filename: assets/KR6g0014_010-X.markers.yaml, hash: 'sha256:743e2578ed6c0536502b684f4030d5f08c8e53c3f1346d96520604465996e889'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6g0014_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 6911
+  label: 涅槃經治定疏科卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0014_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 6624
+  label: 涅槃經治定疏科卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0014_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 7030
+  label: 涅槃經治定疏科卷卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6g0014_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 7622
+  label: 涅槃經治定疏科卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6g0014_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 6485
+  label: 涅槃經治定疏科卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6g0014_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 6835
+  label: 涅槃經治定疏科卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6g0014_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 4568
+  label: 涅槃經治定疏科卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6g0014_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 11101
+  label: 涅槃經治定疏科卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6g0014_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 6869
+  label: 涅槃經治定疏科卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6g0014_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 6363
+  label: 涅槃經治定疏科卷第十
+  type: juan
+  level: 1
+hash: sha256:6ba9b425275d28fa0a8f10123765a688aebb79d0a3769af6034f3fdf670bd727

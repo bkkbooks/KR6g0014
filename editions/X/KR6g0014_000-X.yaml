@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6g0014/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 涅槃經治定疏科
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X36/X36n0657.xml
+    old_id: X36n0657
+hash: sha256:8f6caa19b3fda96040a91c38f6ce32022fd6c222b7604f09be7fcd040dfad933
